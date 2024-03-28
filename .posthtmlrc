@@ -7,12 +7,96 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Barnard released regular decisions for the class of 2028 on Wednesday, admitting 7 percent of 11,832 applicants. The college’s acceptance rate remains similar to last year’s <a href=\"https://www.columbiaspectator.com/news/2023/03/29/barnard-accepts-record-low-65-percent-of-applicants-for-class-of-2027/\">record-low acceptance rate</a>, with an increase of only 0.5 percentage points."
+          },
+          {
+            "type": "text",
+            "value": "The class of 2028 marks the first round of post-affirmative action applicants to Barnard after the Supreme Court <a href=\"https://www.columbiaspectator.com/news/2023/06/29/supreme-court-overturns-bollingers-landmark-case-on-affirmative-action/\">overturned</a> Grutter v. Bollinger “for all intents and purposes” last year, officially putting an end to race-conscious college admissions policies. Shortly after, Barnard President Laura Rosenbury <a href=\"https://www.columbiaspectator.com/news/2023/06/29/rosenbury-reaffirms-commitment-to-diversity-after-affirmative-action-falls/\">reaffirmed Barnard’s commitment to diversity</a> and framed the decision as a “historic challenge to all of us who continue to strive for equity in our nation and its greatest institutions” in a college wide email."
+          },
+          {
+            "type": "text",
+            "value": "Barnard did not release racial and ethnic diversity statistics this year. In 2022, Barnard <a href=\"https://barnard.edu/news/barnard-colleges-class-2026-most-diverse-selective-ever-admitted\">admitted</a> its most diverse class on record, with 66 percent of admitted students identifying as women of color."
+          },
+          {
+            "type": "text",
+            "value": "The new cohort comes from 42 countries and 51 states and territories. Twelve percent of the class of 2028 are international students and approximately 22 percent are first-generation college students. Forty-nine percent of applicants did not submit test scores, pursuant to Barnard’s temporary test-optional policy implemented at the beginning of the pandemic."
+          },
+          {
+            "type": "text",
+            "value": "Geographical statistics were similar for the admitted class of 2027, which came from 40 countries and 47 states and territories. The class of 2028 sees a slight decrease in international diversity compared to the class of 2027, of which 14 percent of admits were international students."
+          },
+          {
+            "type": "text",
+            "value": "Of applicants whose high schools reported class rankings, 94 percent were in the top 10 percent of their high school classes. This year’s data excludes information about applicants’ most common academic interests."
+          },
+          {
+            "type": "text",
+            "value": "“This cohort of students truly stands out, with their outstanding academic achievements and resilience in pursuing their passions, despite the challenges of recent years,” Jennifer Fondiller, vice president for enrollment and communications, wrote in a press release. “We look forward to welcoming them to our campus and our community.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "barchart.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "With the newly admitted class comes Barnard’s third <a href=\"https://www.questbridge.org/college-partners/barnard-college\">QuestBridge</a> cohort, consisting of 46 students admitted from the early and regular decision pools. QuestBridge increases low-income high school students’ access to higher education through its <a href=\"https://www.questbridge.org/high-school-students/national-college-match\">National College Match</a> program."
+          },
+          {
+            "type": "text",
+            "value": "Barnard also works to increase its access to first-generation low-income students through programs such as <a href=\"https://barnard.edu/admissions/commitment-to-access\">Barnard Bound</a>, the <a href=\"https://barnard.edu/science-pathways-scholars-program\">Science Pathways Scholars and Environmental Science Pathways Scholars programs</a>, and the <a href=\"https://barnard.edu/collegiate-science-and-technology-entry-program\">Collegiate Science and Technology Entry Program</a>."
+          },
+          {
+            "type": "text",
+            "value": "Each year, Barnard Bound provides high school seniors with virtual and in-person programming, providing opportunities to learn more about the college and “what it means to be first-generation/low income at Barnard and in spaces of higher education,” according to its <a href=\"https://barnard.edu/admissions/commitment-to-access\">webpage</a>. At Barnard Bound events, prospective students attend panels and have conversations with current students, faculty, staff, and alumni."
+          },
+          {
+            "type": "text",
+            "value": "Through Barnard Bound, the college “remains steadfast in its commitment to fostering a diverse community,” according to the press release."
+          },
+          {
+            "type": "text",
+            "value": "The <a href=\"https://barnard.edu/science-pathways-scholars-program\">Science Pathways Scholars and Environmental Science Pathways Scholars programs</a> work with first-generation low-income applicants with interests in STEM. The <a href=\"https://barnard.edu/collegiate-science-and-technology-entry-program\">Collegiate Science and Technology Entry Program</a> assists first-generation low-income applicants with a broader range of interests in STEM, social work, law, teaching, or health."
+          },
+          {
+            "type": "text",
+            "value": "“This incoming class proves that excellence knows no bounds and we take pride in the remarkable breadth of talent and diversity in this group,” Christina Lopez, dean of enrollment management, wrote in the press release.“We are grateful that we are able to support such excellence through financial aid that ensures that students from all backgrounds can flourish in the Barnard community.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Senior staff writer Caroline Capozzi can be contacted at </i><a href=\"mailto:caroline.capozzi@columbiaspectator.com\"><i>caroline.capozzi@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Follow her on X </i><a href=\"https://twitter.com/CarolineCapozz3\"><i>@CarolineCapozz3.</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Reporter Kyara Torres-Olivares can be contacted at </i><a href=\"mailto:kyara.torres@columbiaspectator.com\"><i>kyara.torresolivares@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec.</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Barnard acceptance rate rises to 7 percent for class of 2028",
+        "date": "March 27, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/caroline-capozzi/\">Caroline Capozzi</a>. Graphic by <a href=\"https://www.columbiaspectator.com/contributors/kyara-torres-olivares/\">Kyara Torres-Olivares</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/Q6B7QW2NGBG3PMWZOYH376BQV4.jpg",
+        "cover_caption": "Stella Ragas / Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1Qm3127TqbJ38hugYCLsu7VKdyxFq1rFUPO1pcoTz6qQ/edit"
       }
     }
   }
